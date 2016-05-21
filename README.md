@@ -1,0 +1,2 @@
+# prototurk
+prototurk içeriğidir.
